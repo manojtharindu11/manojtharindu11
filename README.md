@@ -12,3 +12,5 @@ I'm Tharindu Manoj Thilakarathna, a second-year undergraduate student at the Uni
 - ⚡ Fun fact: To unwind, I indulge my sweet tooth with a variety of treats! 🍬
 
 Excited about the possibilities ahead, I'm open to connecting with fellow developers, mentors, and anyone passionate about technology. Let's code, learn, and grow together! 🌟
+
+You can also check out my [personal portfolio website](https://manojtharindu11.github.io/CodeAlpha_Personal_Portfolio_Website/) to learn more about my projects and experiences!
