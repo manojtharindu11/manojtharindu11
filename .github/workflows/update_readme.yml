@@ -1,8 +1,8 @@
-name: Update README with Latest Medium Article
+name: Update README
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour, adjust as needed
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,22 +11,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
-      - name: Fetch Latest Medium Article
-        id: fetch-article
-        run: |
-          # Fetch the latest Medium article title
-          article=$(curl -s https://medium.com/@manojtharindu11/latest?format=json | grep -o '"title":[^,]*' | head -n 1 | cut -d '"' -f 4)
-          echo "Latest Medium Article: $article"
-          echo "<h3 align='left'>Latest Medium Article:</h3>" > README.md
-          echo "<p align='left'>$article</p>" >> README.md
-
-      - name: Commit and Push Changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Update README with latest Medium article"
-          git push
+      
+      - name: Update README
+        uses: .github/workflows/update_readme.yml
+        with:
+          mediumUsername: 'manojtharindu11'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
