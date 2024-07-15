@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       - name: Update README
-        uses: manojtharindu11/manojtharindu11
+        uses: manojtharindu11/.github/workflows/update_readme.yml
         with:
           mediumUsername: 'manojtharindu11'
         env:
