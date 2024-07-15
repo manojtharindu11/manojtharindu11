@@ -55,11 +55,12 @@ const manojtharindu11 = {
 [![Twitter: manojtharindu11](https://img.shields.io/twitter/follow/manojtharindu11?style=social)](https://twitter.com/manojtharindu11)
 [![Linkedin: manojtharindu11](https://img.shields.io/badge/-manojtharindu11-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manojtharindu11/)](https://www.linkedin.com/in/manojtharindu11/)
 [![GitHub manojtharindu11](https://img.shields.io/github/followers/manojtharindu11?label=follow&style=social)](https://github.com/manojtharindu11)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojtharindu11&label=Profile%20views&color=0e75b6&style=flat" alt="manojtharindu11" /> </p>
+<img align="right" src="https://komarev.com/ghpvc/?username=manojtharindu11&label=Profile%20views&color=0e75b6&style=flat" alt="manojtharindu11" />
 
 ---
 
-
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 
 <p align="center" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manojtharindu11&show_icons=true&locale=en" alt="manojtharindu11" />
@@ -71,7 +72,7 @@ const manojtharindu11 = {
 
 ---
 
-### 📝 My Latest Blog Post in Medium
+### 📝 Latest Medium post
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/0" alt="Recent Article 0"></a>
 <!--- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/1" alt="Recent Article 1"></a>
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/2" alt="Recent Article 2"></a> <br>-->
