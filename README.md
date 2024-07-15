@@ -25,4 +25,4 @@ You can also check out my [personal portfolio website](https://manojtharindu11.g
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=manojtharindu11.manojtharindu11)
