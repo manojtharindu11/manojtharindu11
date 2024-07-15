@@ -69,8 +69,12 @@ const manojtharindu11 = {
 
 
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manojtharindu11&show_icons=true&locale=en" alt="manojtharindu11" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=manojtharindu11&show_icons=true&locale=en" alt="manojtharindu11" />
+</p>
+
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojtharindu11&show_icons=true&locale=en&layout=compact" alt="manojtharindu11" />
 </p>
 
 <p align="center">
@@ -78,9 +82,7 @@ const manojtharindu11 = {
 </p>
 
 
-<p align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojtharindu11&show_icons=true&locale=en&layout=compact" alt="manojtharindu11" />
-</p>
+
 
 
 
