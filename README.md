@@ -18,7 +18,7 @@ Read my articles on [Medium](https://medium.com/@manojtharindu11).
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" width="50%">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
@@ -42,6 +42,10 @@ Read my articles on [Medium](https://medium.com/@manojtharindu11).
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+</p>
+
+<p align="right" width="50%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojtharindu11&show_icons=true&locale=en&layout=compact" alt="manojtharindu11" />
 </p>
 
 ---
@@ -69,22 +73,13 @@ const manojtharindu11 = {
 
 
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=manojtharindu11&show_icons=true&locale=en" alt="manojtharindu11" />
-</p>
-
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojtharindu11&show_icons=true&locale=en&layout=compact" alt="manojtharindu11" />
+<p align="center" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manojtharindu11&show_icons=true&locale=en" alt="manojtharindu11" />
 </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojtharindu11" alt="manojtharindu11" />
 </p>
-
-
-
-
-
 
 ---
 
