@@ -11,8 +11,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+      
       - name: Update README
-        uses: manojtharindu11/.github/workflows/update_readme.yml
+        uses: ./.github/workflows/update_readme.yml  # Use relative path to the workflow file
         with:
           mediumUsername: 'manojtharindu11'
         env:
