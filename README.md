@@ -72,7 +72,7 @@ const manojtharindu11 = {
 
 ---
 
-### 📝 Latest Medium post
+### 📝 Latest Medium Post
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/0" alt="Recent Article 0"></a>
 <!--- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/1" alt="Recent Article 1"></a>
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/2" alt="Recent Article 2"></a> <br>-->
