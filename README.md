@@ -14,7 +14,7 @@ I'm Tharindu Manoj Thilakarathna, a second-year undergraduate student at the Uni
 
 Excited about the possibilities ahead, I'm open to connecting with fellow developers, mentors, and anyone passionate about technology. Let's code, learn, and grow together! 🌟
 
-You can also check out my [personal portfolio website](https://manojtharindu11.github.io/Personal_Portfolio_Website/) to learn more about my projects and experiences!  
+You can also check out my [personal portfolio website](https://manojtharindu11.github.io/Personal_portfolio_website/) to learn more about my projects and experiences!  
 Read my articles on [Medium](https://medium.com/@manojtharindu11).
 
 ---
