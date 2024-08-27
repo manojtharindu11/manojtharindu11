@@ -43,7 +43,7 @@ const manojtharindu11 = {
   pronouns: "he" | "him",
   code: [Javascript, Python, Java, C],
   tools: [Angular, ASP.NET, MySQL],
-  challenge: "I am doing the #100DaysOfCode challenge focused on Angular and ASP.NET"
+  challenge: "....."
 }
 ```
 
