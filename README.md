@@ -42,6 +42,8 @@ Check out my [portfolio](https://manojtharindu11.github.io/Personal_portfolio_we
 ---
 
 ```Python
+import json
+
 class Developer:
     def __init__(self, name, pronouns):
         self.name = name
@@ -55,76 +57,32 @@ class Developer:
 
     def add_skill(self, skill):
         self.skills['code'].append(skill)
-        self.skills['code'].sort()  # Sort skills after adding
 
     def add_tool(self, category, tool):
-        if category not in self.skills['tools']:
-            self.skills['tools'][category] = []
-        self.skills['tools'][category].append(tool)
-        self.skills['tools'][category].sort()  # Sort tools after adding
+        self.skills['tools'].setdefault(category, []).append(tool)
 
     def add_project(self, project):
         self.skills['projects'].append(project)
-        self.skills['projects'].sort(key=lambda x: x['name'])  # Sort projects by name
 
     def add_hobby(self, hobby):
         self.skills['hobbies'].append(hobby)
-        self.skills['hobbies'].sort()  # Sort hobbies after adding
 
-    def get_description(self):
-        code_skills = ', '.join(self.skills['code'])
-        tools = ', '.join([tool for category in self.skills['tools'].values() for tool in category])
-        
-        return (f"{self.name} (pronouns: {self.pronouns}) uses "
-                f"{code_skills} and tools like {tools}.")
-
-    def display_skills(self):
-        print(f"Skills: {', '.join(self.skills['code'])}")
-        print(f"Tools: {self.skills['tools']}")
-        print(f"Projects: {self.skills['projects']}")
-        print(f"Hobbies: {', '.join(self.skills['hobbies'])}")
-
+    def to_json(self):
+        return json.dumps({
+            'name': self.name,
+            'pronouns': self.pronouns,
+            'skills': self.skills
+        }, indent=2)
 
 def main():
-    # Create an instance for Tharindu
-    manojtharindu11 = Developer("Tharindu Manoj Thilakarathna", "he/him")
+    dev = Developer("Tharindu Manoj Thilakarathna", "he/him")
+    dev.add_skill("JavaScript")
+    dev.add_tool("frontend", "Angular")
+    dev.add_project({"name": "Real-Time Communication Platform"})
+    dev.add_hobby("Open-source contribution")
 
-    # Adding skills
-    manojtharindu11.add_skill("JavaScript")
-    manojtharindu11.add_skill("Python")
-    manojtharindu11.add_skill("Java")
-    manojtharindu11.add_skill("C")
+    print(dev.to_json())
 
-    # Adding tools
-    manojtharindu11.add_tool("frontend", "Angular")
-    manojtharindu11.add_tool("frontend", "Bootstrap")
-    manojtharindu11.add_tool("backend", "ASP.NET")
-    manojtharindu11.add_tool("databases", "MySQL")
-    manojtharindu11.add_tool("databases", "MongoDB")
-
-    # Adding projects
-    manojtharindu11.add_project({
-        'name': "Real-Time Communication Platform",
-        'technologies': ["Angular", "SignalR", "ASP.NET Core"],
-        'description': "A platform enabling real-time communication between users."
-    })
-
-    manojtharindu11.add_project({
-        'name': "Event Management System",
-        'technologies': ["Angular", "ASP.NET", "MySQL"],
-        'description': "Collaborative event planning system."
-    })
-
-    # Adding hobbies
-    manojtharindu11.add_hobby("Open-source contribution")
-    manojtharindu11.add_hobby("Building side projects")
-
-    # Example usage
-    print(manojtharindu11.get_description())
-    manojtharindu11.display_skills()
-
-
-# Call the main function to execute the code
 if __name__ == "__main__":
     main()
 
