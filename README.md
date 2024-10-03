@@ -19,7 +19,7 @@ Read my articles on [Medium](https://medium.com/@manojtharindu11).
 
 ---
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<!--<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>-->
 <br/>
 <div align="center">
     <!--<img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
@@ -31,10 +31,10 @@ Read my articles on [Medium](https://medium.com/@manojtharindu11).
 <br/>
 <br/>
 
-
+<!--
 <p align="center">
   <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojtharindu11&show_icons=true&locale=en&layout=compact" alt="manojtharindu11" />
-</p>
+</p> -->
 
 ---
 
@@ -42,8 +42,7 @@ Read my articles on [Medium](https://medium.com/@manojtharindu11).
 const manojtharindu11 = {
   pronouns: "he" | "him",
   code: [Javascript, Python, Java, C],
-  tools: [Angular, ASP.NET, MySQL],
-  challenge: "....."
+  tools: [Angular, ASP.NET, MySQL, MSSQL, Firebase],
 }
 ```
 
@@ -58,7 +57,7 @@ const manojtharindu11 = {
 <img align="right" src="https://komarev.com/ghpvc/?username=manojtharindu11&label=Profile%20views&color=0e75b6&style=flat" alt="manojtharindu11" />
 
 ---
-
+<!--
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
@@ -71,8 +70,8 @@ const manojtharindu11 = {
 </p>
 
 ---
-
-### 📝 Latest Medium Post
+-->
+### Latest Medium Post
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/0" alt="Recent Article 0"></a>
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/1" alt="Recent Article 1"></a>
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/2" alt="Recent Article 2"></a> <br>
