@@ -6,7 +6,7 @@
 
 I'm Tharindu Manoj Thilakarathna, a second-year undergraduate student at the University of Moratuwa, diving deep into the realm of IT.
 
-- 🌱 **Learning Journey:** Currently expanding my skills in Java and C, with a strong foundation in JavaScript, Bootstrap, HTML, and CSS.
+- 🌱 **Learning Journey:** Currently expanding my skills in Java, with a strong foundation in JavaScript, Bootstrap, HTML, and CSS.
 - 👯 **Collaboration:** Looking for opportunities to contribute to open-source projects, eager to collaborate with experienced developers, and make a positive impact on the tech community.
 - 🤔 **Seeking Guidance:** Always open to valuable advice from mentors to guide my journey and accelerate my growth.
 - 💬 **Ask Me About:** Anything related to JavaScript, Bootstrap, C, or Java — I'm here to help!
