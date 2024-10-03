@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tharindu+Manoj!;" />
 </h1>
 
-I'm Tharindu Manoj Thilakarathna, a second-year undergraduate student at the University of Moratuwa, diving deep into the realm of IT.
+I'm Tharindu Manoj Thilakarathna, a second-year undergraduate student at the University of Moratuwa, diving deep into IT.
 
 - 🌱 **Learning Journey:** Currently expanding my skills in Java, with a strong foundation in JavaScript, Bootstrap, HTML, and CSS.
-- 👯 **Collaboration:** Looking for opportunities to contribute to open-source projects, eager to collaborate with experienced developers, and make a positive impact on the tech community.
+- 👯 **Collaboration:** Looking for opportunities to contribute to open-source projects, eager to collaborate with experienced developers, and positively impact the tech community.
 - 🤔 **Seeking Guidance:** Always open to valuable advice from mentors to guide my journey and accelerate my growth.
 - 💬 **Ask Me About:** Anything related to JavaScript, Bootstrap, C, or Java — I'm here to help!
 - 📧 **Contact Me:** Reach me via email at manojtharindu11@gmail.com
 
-Excited about the possibilities ahead, I'm open to connecting with fellow developers, mentors, and anyone passionate about technology. Let's code, learn, and grow together! 🌟
+Excited about the possibilities, I'm open to connecting with fellow developers, mentors, and anyone passionate about technology. Let's code, learn, and grow together! 🌟
 
 You can also check out my [personal portfolio website](https://manojtharindu11.github.io/Personal_portfolio_website/) to learn more about my projects and experiences!  
 Read my articles on [Medium](https://medium.com/@manojtharindu11).
