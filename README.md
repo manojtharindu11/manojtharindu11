@@ -78,7 +78,6 @@ def main():
     dev = Developer("Tharindu Manoj Thilakarathna", "he/him")
     dev.add_skill("JavaScript")
     dev.add_tool("frontend", "Angular")
-    dev.add_project({"name": "Real-Time Communication Platform"})
     dev.add_hobby("Open-source contribution")
 
     print(dev.to_json())
