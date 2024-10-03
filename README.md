@@ -72,7 +72,11 @@ class Developer:
         self.skills['hobbies'].sort()  # Sort hobbies after adding
 
     def get_description(self):
-        return f"{self.name} (pronouns: {self.pronouns}) uses {', '.join(self.skills['code'])} and tools like {', '.join([tool for category in self.skills['tools'].values() for tool in category])}."
+        code_skills = ', '.join(self.skills['code'])
+        tools = ', '.join([tool for category in self.skills['tools'].values() for tool in category])
+        
+        return (f"{self.name} (pronouns: {self.pronouns}) uses "
+                f"{code_skills} and tools like {tools}.")
 
     def display_skills(self):
         print(f"Skills: {', '.join(self.skills['code'])}")
