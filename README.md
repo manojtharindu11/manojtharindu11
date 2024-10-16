@@ -4,13 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tharindu+Manoj!;" />
 </h1>
 
-I'm Tharindu Manoj Thilakarathna, a second-year undergraduate student at the University of Moratuwa, diving deep into IT.
-
+I'm Tharindu Manoj Thilakarathna, a third-year undergraduate student at the University of Moratuwa, diving deep into IT.
+<!--
 - 🌱 **Learning Journey:** Currently expanding my skills in Java, with a strong foundation in JavaScript, Bootstrap, HTML, and CSS.
 - 👯 **Collaboration:** Looking for opportunities to contribute to open-source projects, eager to collaborate with experienced developers, and positively impact the tech community.
 - 🤔 **Seeking Guidance:** Always open to valuable advice from mentors to guide my journey and accelerate my growth.
 - 💬 **Ask Me About:** Anything related to JavaScript, Bootstrap, C, or Java — I'm here to help!
 - 📧 **Contact Me:** Reach me via email at manojtharindu11@gmail.com
+-->
 
 Excited about the possibilities, I'm open to connecting with fellow developers, mentors, and anyone passionate about technology. Let's code, learn, and grow together! 🌟
 
@@ -40,7 +41,6 @@ Read my articles on [Medium](https://medium.com/@manojtharindu11).
 
 ```javascript
 const manojtharindu11 = {
-  pronouns: "he" | "him",
   code: [Javascript, Python, Java, C],
   tools: [Angular, ASP.NET, MySQL, MSSQL, Firebase],
 }
@@ -54,7 +54,7 @@ const manojtharindu11 = {
 [![Twitter: manojtharindu11](https://img.shields.io/twitter/follow/manojtharindu11?style=social)](https://twitter.com/manojtharindu11)
 [![Linkedin: manojtharindu11](https://img.shields.io/badge/-manojtharindu11-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manojtharindu11/)](https://www.linkedin.com/in/manojtharindu11/)
 [![GitHub manojtharindu11](https://img.shields.io/github/followers/manojtharindu11?label=follow&style=social)](https://github.com/manojtharindu11)
-<img align="right" src="https://komarev.com/ghpvc/?username=manojtharindu11&label=Profile%20views&color=0e75b6&style=flat" alt="manojtharindu11" />
+<img align="left" src="https://komarev.com/ghpvc/?username=manojtharindu11&label=Profile%20views&color=0e75b6&style=flat" alt="manojtharindu11" />
 
 <!--
 <h2 align="center">⚡ Stats ⚡</h2>
