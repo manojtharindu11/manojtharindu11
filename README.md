@@ -56,7 +56,6 @@ const manojtharindu11 = {
 [![GitHub manojtharindu11](https://img.shields.io/github/followers/manojtharindu11?label=follow&style=social)](https://github.com/manojtharindu11)
 <img align="right" src="https://komarev.com/ghpvc/?username=manojtharindu11&label=Profile%20views&color=0e75b6&style=flat" alt="manojtharindu11" />
 
----
 <!--
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -70,13 +69,14 @@ const manojtharindu11 = {
 </p>
 
 ---
--->
 ### Latest Medium Post
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/0" alt="Recent Article 0"></a>
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/1" alt="Recent Article 1"></a>
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/2" alt="Recent Article 2"></a> <br>
 
 ---
+-->
+
 
 ⭐️ From [@manojtharindu11](https://github.com/manojtharindu11)
 
