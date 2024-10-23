@@ -25,8 +25,8 @@ Read my articles on [Medium](https://medium.com/@manojtharindu11).
 <div align="center">
     <!--<img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>-->
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,firebase,mongodb,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,express,firebase,mongodb,c,java,mysql" /><br>
 </div>
 
 <br/>
