@@ -22,12 +22,13 @@ Read my articles on [Medium](https://medium.com/@manojtharindu11).
 
 <!--<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>-->
 <br/>
+
 <div align="center">
-    <!--<img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>-->
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,express,firebase,mongodb,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,githubactions,mysql,spring,docker,react,figma,angular,c,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=kafka,arduino,java,mongodb,visualstudio,typescript,nodejs,tailwind,postman,threejs" /><br>
+    <img src="https://skillicons.dev/icons?i=cloudflare,dotnet,html,express,css,flutter,git,blender,npm,github,firebase,vscode" />
 </div>
+
 
 <br/>
 <br/>
@@ -40,10 +41,39 @@ Read my articles on [Medium](https://medium.com/@manojtharindu11).
 ---
 
 ```javascript
-const manojtharindu11 = {
-  code: [Javascript, Python, Java, C],
-  tools: [Angular, ASP.NET, MySQL, MSSQL, Firebase],
+class Developer {
+  constructor(name, title, skills) {
+    this.name = name;
+    this.title = title;
+    this.skills = skills;
+  }
+
+  introduce() {
+    console.log(
+      `Hi, I'm ${this.name}, a passionate ${this.title}. Let's innovate together!`
+    );
+  }
+
+  static embarkOnJourney() {
+    console.log("Embark on a journey of endless learning and growth!");
+  }
 }
+
+const manojtharindu11 = new Developer(
+  "Tharindu Manoj",
+  "Tech Enthusiast & Developer",
+  {
+    languages: ["JavaScript", "Python", "Java", "C", "TypeScript"],
+    frameworks: ["Angular", "ASP.NET", "Spring Boot"],
+    tools: ["MySQL", "Firebase", "Docker", "Git", "Postman"],
+  }
+);
+
+// Example usage
+manojtharindu11.introduce();
+console.log("Skills:", manojtharindu11.skills);
+Developer.embarkOnJourney();
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
