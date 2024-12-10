@@ -61,7 +61,7 @@ class Developer {
 public class Main {
     public static void main(String[] args) {
         String[] languages = {"JavaScript", "Python", "Java"};
-        String[] frameworks = {"Angular",".NET", "Spring-boot"};
+        String[] frameworks = {"Angular", ".NET", "Spring-boot"};
         String[] tools = {"MySQL", "Git", "Postman"};
 
         Developer manojtharindu11 = new Developer(
