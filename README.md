@@ -40,39 +40,43 @@ Read my articles on [Medium](https://medium.com/@manojtharindu11).
 
 ---
 
-```javascript
+```java
 class Developer {
-  constructor(name, title, skills) {
-    this.name = name;
-    this.title = title;
-    this.skills = skills;
-  }
+    String name, title;
+    String[] languages, frameworks, tools;
 
-  introduce() {
-    console.log(
-      `Hi, I'm ${this.name}, a passionate ${this.title}. Let's innovate together!`
-    );
-  }
+    public Developer(String name, String title, String[] languages, String[] frameworks, String[] tools) {
+        this.name = name;
+        this.title = title;
+        this.languages = languages;
+        this.frameworks = frameworks;
+        this.tools = tools;
+    }
 
-  static embarkOnJourney() {
-    console.log("Embark on a journey of endless learning and growth!");
-  }
+    public void introduce() {
+        System.out.println("Hi, I'm " + name + ", a " + title + ".");
+    }
 }
 
-const manojtharindu11 = new Developer(
-  "Tharindu Manoj",
-  "Tech Enthusiast & Developer",
-  {
-    languages: ["JavaScript", "Python", "Java", "C", "TypeScript"],
-    frameworks: ["Angular", "ASP.NET", "Spring Boot"],
-    tools: ["MySQL", "Firebase", "Docker", "Git", "Postman"],
-  }
-);
+public class Main {
+    public static void main(String[] args) {
+        String[] languages = {"JavaScript", "Python", "Java"};
+        String[] frameworks = {"Angular"};
+        String[] tools = {"MySQL", "Git"};
 
-// Example usage
-manojtharindu11.introduce();
-console.log("Skills:", manojtharindu11.skills);
-Developer.embarkOnJourney();
+        Developer manojtharindu11 = new Developer(
+            "Tharindu Manoj", 
+            "Tech Enthusiast & Developer", 
+            languages, 
+            frameworks, 
+            tools
+        );
+
+        manojtharindu11.introduce();
+        System.out.println("Skills: " + String.join(", ", manojtharindu11.languages));
+    }
+}
+
 
 ```
 
