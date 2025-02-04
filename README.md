@@ -1,6 +1,6 @@
 ---
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tharindu+Manoj!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manoj+Thilakarathna!;" />
 </h1>
 
 I'm Tharindu Manoj Thilakarathna, a third-year undergraduate student at the University of Moratuwa, diving deep into IT.
