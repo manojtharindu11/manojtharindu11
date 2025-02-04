@@ -1,5 +1,3 @@
----
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tharindu+Manoj!;" />
 </h1>
@@ -83,8 +81,6 @@ public class Main {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
----
-
 ### Social Links
 [![Twitter: manojtharindu11](https://img.shields.io/twitter/follow/manojtharindu11?style=social)](https://twitter.com/manojtharindu11)
 [![Linkedin: manojtharindu11](https://img.shields.io/badge/-manojtharindu11-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manojtharindu11/)](https://www.linkedin.com/in/manojtharindu11/)
@@ -110,9 +106,6 @@ public class Main {
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/2" alt="Recent Article 2"></a> <br>
 -->
 
----
 
 
 ⭐️ From [@manojtharindu11](https://github.com/manojtharindu11)
-
----
