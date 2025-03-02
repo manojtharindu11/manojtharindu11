@@ -3,17 +3,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=popins&size=50&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manoj+Thilakarathna!;" />
 </h1>
 
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=manojtharindu11&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views">
+</p>
+
 
 ## 🙂 // ABOUT ME
 I'm an enthusiastic **IT undergraduate** at the **University of Moratuwa** with a passion for **web development**. My commitment to **continuous learning and growth** fuels my drive to **tackle complex challenges** and **craft innovative solutions**. I'm always eager to **explore new technologies** and **push the boundaries of what's possible**.
 
 <br>
 
-| ✨ What I Do               | 💡 Interests                         | 🚀 Current Focus                     | 🌱 Learning & Growth                  |
-|---------------------------|---------------------------------|---------------------------------|----------------------------------|
-| *-Software Development* | *-Exploring emerging technologies* | *-Enhancing my web development skills* | *-Constantly seeking new knowledge* |
-| *-Problem Solving*            | *-Collaborating on exciting projects* | *-Building innovative projects*        | *-Embracing challenges and opportunities* |
-| *-Innovative Solutions*       | *-Making a positive impact through technology* | *-Engaging with the tech community* | *-Learning from experienced professionals* |
+| ✨ What I Do                  | 💡 Interests                                  | 🚀 Current Focus                      | 🌱 Learning & Growth                         |
+|-------------------------------|------------------------------------------------|----------------------------------------|----------------------------------------------|
+| *-Software Development*       | *-Exploring emerging technologies*             | *-Enhancing my web development skills* | *-Constantly seeking new knowledge*          |
+| *-Problem Solving*            | *-Collaborating on exciting projects*          | *-Building innovative projects*        | *-Embracing challenges and opportunities*    |
+| *-Innovative Solutions*       | *-Making a positive impact through technology* | *-Engaging with the tech community*    | *-Learning from experienced professionals*   |
 
 ---
 
@@ -23,114 +27,66 @@ I'm an enthusiastic **IT undergraduate** at the **University of Moratuwa** with 
                                       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
                                       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
                                       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+                                      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+                                      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+                                      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<br>
 
+-- 🖥️ *Frontend Development* -- <br> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+                                      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+                                      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<br>
 
+-- 🎨 *UI & Styling* -- <br>   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<br>
 
-<!--
-- 🌱 **Learning Journey:** Currently expanding my skills in Java, with a strong foundation in JavaScript, Bootstrap, HTML, and CSS.
-- 👯 **Collaboration:** Looking for opportunities to contribute to open-source projects, eager to collaborate with experienced developers, and positively impact the tech community.
-- 🤔 **Seeking Guidance:** Always open to valuable advice from mentors to guide my journey and accelerate my growth.
-- 💬 **Ask Me About:** Anything related to JavaScript, Bootstrap, C, or Java — I'm here to help!
-- 📧 **Contact Me:** Reach me via email at manojtharindu11@gmail.com
--->
+-- 🛠 *Backend Development* -- <br>     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+                                          <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+                                      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+                                      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<br>
 
-Excited about the possibilities, I'm open to connecting with fellow developers, mentors, and anyone passionate about technology. Let's code, learn, and grow together! 🌟
+-- 📦 *Databases & Cloud Storage* -- <br>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<br>
 
-<!--You can also check out my [personal portfolio website](https://manojtharindu11.github.io/Personal_portfolio_website/) to learn more about my projects and experiences! --> 
-Read my articles on [Medium](https://medium.com/@manojtharindu11).
+-- 🚀 *DevOps & Tools* -- <br>   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<br>
+
+-- 📱 *Mobile Development* -- <br>  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<br>
+
+-- 🔧 *Other Tools* -- <br>   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keycloak-00A4CC?style=for-the-badge&logo=keycloak&logoColor=white" />
+<br>
 
 ---
-
-<!--<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>-->
-<br/>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,githubactions,mysql,spring,docker,react,figma,angular,c,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=kafka,arduino,java,mongodb,visualstudio,typescript,nodejs,tailwind,postman,threejs" /><br>
-    <img src="https://skillicons.dev/icons?i=cloudflare,dotnet,html,express,css,flutter,git,blender,npm,github,firebase,vscode" />
-</div>
-
-
-<br/>
-<br/>
-
-<!--
-<p align="center">
-  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojtharindu11&show_icons=true&locale=en&layout=compact" alt="manojtharindu11" />
-</p> -->
-
----
-```java
-class Developer {
-    String name, title;
-    String[] languages, frameworks, tools;
-
-    public Developer(String name, String title, String[] languages, String[] frameworks, String[] tools) {
-        this.name = name;
-        this.title = title;
-        this.languages = languages;
-        this.frameworks = frameworks;
-        this.tools = tools;
-    }
-
-    public void introduce() {
-        System.out.println("Hi, I'm " + name + ", a " + title + ".");
-    }
-}
-
-public class Main {
-    public static void main(String[] args) {
-        String[] languages = {"JavaScript", "Python", "Java"};
-        String[] frameworks = {"Angular", ".NET", "Spring-boot"};
-        String[] tools = {"MySQL", "Git", "Postman"};
-
-        Developer manojtharindu11 = new Developer(
-            "Tharindu Manoj", 
-            "Tech Enthusiast & Developer", 
-            languages, 
-            frameworks, 
-            tools
-        );
-
-        manojtharindu11.introduce();
-        System.out.println("Skills: " + String.join(", ", manojtharindu11.languages));
-    }
-}
-
-
-```
----
-
+## 💬 // LET'S CONNECT & CODE!
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+```javascript
+/*
+ * 🌍 A warm greeting from JavaScript!
+ * Let's connect, collaborate, and build something amazing together.
+ */
+console.log("Hello, World!");
+```
 ---
 
-### Social Links
-[![Twitter: manojtharindu11](https://img.shields.io/twitter/follow/manojtharindu11?style=social)](https://twitter.com/manojtharindu11)
-[![Linkedin: manojtharindu11](https://img.shields.io/badge/-manojtharindu11-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manojtharindu11/)](https://www.linkedin.com/in/manojtharindu11/)
-[![GitHub manojtharindu11](https://img.shields.io/github/followers/manojtharindu11?label=follow&style=social)](https://github.com/manojtharindu11)
-<img align="left" src="https://komarev.com/ghpvc/?username=manojtharindu11&label=Profile%20views&color=0e75b6&style=flat" alt="manojtharindu11" />
+## 🤝 // CONNECT WITH ME
 
-<!--
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-<p align="center" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manojtharindu11&show_icons=true&locale=en" alt="manojtharindu11" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojtharindu11" alt="manojtharindu11" />
-</p>
-
----
-### Latest Medium Post
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/0" alt="Recent Article 0"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/1" alt="Recent Article 1"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@manojtharindu11/2" alt="Recent Article 2"></a> <br>
--->
-
----
-
-⭐️ From [@manojtharindu11](https://github.com/manojtharindu11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manojtharindu11)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@manojtharindu11)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCANL7ddYzl4nMZioFH8ySPA)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manojtharindu11) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/manojtharindu11) 
