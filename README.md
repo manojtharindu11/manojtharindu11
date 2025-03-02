@@ -1,9 +1,31 @@
 ---
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manoj+Thilakarathna!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=popins&size=50&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manoj+Thilakarathna!;" />
 </h1>
 
-I'm Tharindu Manoj Thilakarathna, a third-year undergraduate student at the University of Moratuwa, diving deep into IT.
+
+## 🙂 // ABOUT ME
+I'm an enthusiastic **IT undergraduate** at the **University of Moratuwa** with a passion for **web development**. My commitment to **continuous learning and growth** fuels my drive to **tackle complex challenges** and **craft innovative solutions**. I'm always eager to **explore new technologies** and **push the boundaries of what's possible**.
+
+<br>
+
+| ✨ What I Do               | 💡 Interests                         | 🚀 Current Focus                     | 🌱 Learning & Growth                  |
+|---------------------------|---------------------------------|---------------------------------|----------------------------------|
+| *-Software Development* | *-Exploring emerging technologies* | *-Enhancing my web development skills* | *-Constantly seeking new knowledge* |
+| *-Problem Solving*            | *-Collaborating on exciting projects* | *-Building innovative projects*        | *-Embracing challenges and opportunities* |
+| *-Innovative Solutions*       | *-Making a positive impact through technology* | *-Engaging with the tech community* | *-Learning from experienced professionals* |
+
+---
+
+## 🛠 // TECH STACK OVERVIEW
+
+-- 👨‍💻 *Programming Languages* -- <br> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+                                      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+                                      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+                                      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+
+
 <!--
 - 🌱 **Learning Journey:** Currently expanding my skills in Java, with a strong foundation in JavaScript, Bootstrap, HTML, and CSS.
 - 👯 **Collaboration:** Looking for opportunities to contribute to open-source projects, eager to collaborate with experienced developers, and positively impact the tech community.
