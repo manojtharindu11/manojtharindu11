@@ -1,12 +1,20 @@
-# Hi, I'm Manoj Thilakarathna
+### Hi, I'm Manoj Thilakarathna 👋
 
 Final-year Information Technology undergraduate at the University of Moratuwa focused on web development and software engineering.
 
-## Tech Stack
+- 💻 ⚙️ Building simple and useful web applications
+- 📚 🌱 Learning full-stack development and better ways to ship
 
-Java, TypeScript, JavaScript, Python, React, Next.js, Tailwind CSS, Spring Boot, Flask, MySQL, MongoDB
+#### Tech Stack 🛠️
 
-## Let's Connect
+| Category  | Tools                                |
+| --------- | ------------------------------------ |
+| Languages | Java, TypeScript, JavaScript, Python |
+| Frontend  | React, Next.js, Tailwind CSS         |
+| Backend   | Spring Boot, Flask                   |
+| Database  | MySQL, MongoDB                       |
+
+#### Let's Connect 🤝
 
 Open to connecting with people who are building and learning.
 
