@@ -1,9 +1,9 @@
 ## Hi, I'm Manoj Thilakarathna 👋
 
-Final-year Information Technology undergraduate at the University of Moratuwa focused on web development and software engineering. I enjoy building practical digital products, solving real problems, and learning how to create better user experiences with clean code and thoughtful design.
+Information Technology undergraduate at the University of Moratuwa, focused on web development and software engineering. Practical digital products, real-world problem solving, and better user experiences are being explored through clean code and thoughtful design.
 
 - ⚙️ Building simple and useful web applications
-- 🌱 Learning full-stack development and better ways to ship
+- 🌱 Exploring full-stack development and better ways to ship
 
 ### Tech Stack 🛠️
 
