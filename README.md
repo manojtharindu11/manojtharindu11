@@ -18,4 +18,4 @@ Information Technology undergraduate at the University of Moratuwa focused on we
 
 [LinkedIn](https://linkedin.com/in/manojtharindu11) · [Medium](https://medium.com/@manojtharindu11) · [YouTube](https://www.youtube.com/channel/UCANL7ddYzl4nMZioFH8ySPA) · [Facebook](https://facebook.com/manojtharindu11)
 
-<sub>![Profile Views](https://komarev.com/ghpvc/?username=manojtharindu11&label=Profile%20Views&color=0D1117&style=flat-square)</sub>
+![Profile Views](https://komarev.com/ghpvc/?username=manojtharindu11&label=Profile%20Views&color=0D1117&style=flat-square)
